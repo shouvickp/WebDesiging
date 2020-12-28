@@ -69,4 +69,7 @@ export class CalculatorComponent implements OnInit {
 		this.operator = null;
 		this.waitForSecondNumber = false;
 	}
+	public back() {
+    	this.currentNumber=this.currentNumber.substr(0, this.currentNumber.length - 1);
+	}
 }
