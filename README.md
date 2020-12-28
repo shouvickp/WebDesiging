@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 The project is hosted live on https://basic-calculator-in-angular.vercel.app/
 
 ## UI looks like
-![alt text](https://github.com/shouvickp/basic-calculator-in-angular/master/output.png?raw=true)
+![alt text](https://github.com/shouvickp/basic-calculator-in-angular/output.png?raw=true)
 
 ## Development server
 
